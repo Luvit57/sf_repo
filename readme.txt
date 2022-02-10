@@ -1,3 +1,4 @@
+SF_TEST
 README for DocBook 3.1
 
 This is DocBook 3.1, released 01 Feb 1999.
